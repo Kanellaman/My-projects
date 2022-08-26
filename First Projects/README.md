@@ -1,7 +1,7 @@
 # First-projects-C-
 
-This repository contains my very first projects (assignments) in C, the first higher level programming language I learned.
-The 3 assignments folders are the 3 "big" tasks I did while studying the subject [Introduction to Programming](https://cgi.di.uoa.gr/~ip/), first semester in Uni. Every folder contains the exercise pronunciation of each assignment.
+This folder contains my very first projects (assignments) in C while I was in my 1st semester in Uni.
+The 3 assignments folders are the 3 "big" tasks I did while studying the subject [Introduction to Programming](https://cgi.di.uoa.gr/~ip/). Every folder contains the exercise pronunciation of each assignment.
 
 Till then my coding skills have,no doubt,grown bigger and keep growing day to day.
 
